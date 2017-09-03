@@ -1,0 +1,19 @@
+{
+  "name": "com.schedulu.web",
+  "version": "1.0.0",
+  "description": "App for scheduling messages for Slack",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarukLjuca/schedulu.git"
+  },
+  "author": "Faruk Ljuca <echo.faruk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "form-data": "^2.3.1",
+    "node-fetch": "^1.7.2"
+  }
+}
